@@ -1,0 +1,39 @@
+# Geotechnical Engineering — Cork
+
+> Geotechnical engineering services in Cork, Ireland.
+
+## Services
+- [Anchors](https://cork.geotechnical-engineering.co/anchors/)
+- [Atterberg Limits](https://cork.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://cork.geotechnical-engineering.co/cbr-road/)
+- [Cpt Test](https://cork.geotechnical-engineering.co/cpt-test/)
+- [Deep Excavations](https://cork.geotechnical-engineering.co/deep-excavations/)
+- [Excavation Monitoring](https://cork.geotechnical-engineering.co/excavation-monitoring/)
+- [Excavations](https://cork.geotechnical-engineering.co/excavations/)
+- [Flexible Pavement](https://cork.geotechnical-engineering.co/flexible-pavement/)
+- [Foundations](https://cork.geotechnical-engineering.co/foundations/)
+- [Geophysics](https://cork.geotechnical-engineering.co/geophysics/)
+- [Grain Size](https://cork.geotechnical-engineering.co/grain-size/)
+- [Ground Improvement](https://cork.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://cork.geotechnical-engineering.co/grouting/)
+- [Investigation](https://cork.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://cork.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://cork.geotechnical-engineering.co/laboratory/)
+- [Mat Foundations](https://cork.geotechnical-engineering.co/mat-foundations/)
+- [Piles](https://cork.geotechnical-engineering.co/piles/)
+- [Plate Load Test](https://cork.geotechnical-engineering.co/plate-load-test/)
+- [Road Geotechnics](https://cork.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://cork.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic Refraction](https://cork.geotechnical-engineering.co/seismic-refraction/)
+- [Slope Stability](https://cork.geotechnical-engineering.co/slope-stability/)
+- [Slopes](https://cork.geotechnical-engineering.co/slopes/)
+- [Spt Drilling](https://cork.geotechnical-engineering.co/spt-drilling/)
+- [Test Pits](https://cork.geotechnical-engineering.co/test-pits/)
+- [Vibrocompaction](https://cork.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://cork.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Cork, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
